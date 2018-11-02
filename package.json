@@ -1,0 +1,30 @@
+{
+  "name": "sanitize-mail",
+  "version": "1.0.0",
+  "description": "A sanitize-html wrapper optimised for sanitising HTML for email clients",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/sanitize-mail.git"
+  },
+  "keywords": [
+    "sanitize",
+    "html",
+    "email",
+    "mail",
+    "client",
+    "clean"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/sanitize-mail/issues"
+  },
+  "homepage": "https://github.com/Truemedia/sanitize-mail#readme",
+  "dependencies": {
+    "sanitize-html": "^1.19.1"
+  }
+}
